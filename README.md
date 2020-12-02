@@ -1,4 +1,4 @@
-Lab 4 PR: 
+Lab 4 PR: https://github.com/batoolmalkawii/pythonic-garage-band/pull/1
 
 In this project, we created an OOP program using classes. 
 We created five classes, **Band**, linked to several **Musician**s, which is a superclass that contains a **Guitarist**, a **Bassist**, and a **Drummer**, which were handled as subclasses of *Musician* superclass.
